@@ -38,8 +38,6 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-do-expressions": "^7.12.13",
-    "@babel/plugin-syntax-do-expressions": "^7.12.13",
-    "@babel/preset-react": "^7.12.13"
+   
   }
 }

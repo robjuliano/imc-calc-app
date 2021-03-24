@@ -66,7 +66,7 @@ function App() {
                   <div className="form-group">
                     <input type="number" onChange={handleWeight} placeholder="Peso"></input>
                     <h2><br></br>IMC :{bmi}</h2>
-                    <h1>{situation}</h1>
+                    <h3>{situation}</h3>
                   </div>
                 </form>
               </div>
